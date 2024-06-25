@@ -1,0 +1,1 @@
+# hidromas_reactnative
